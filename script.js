@@ -3,25 +3,25 @@ const products = [
         name: "Product 1",
         description: "A simple description for the first product.",
         price: "₹999",
-        image: "images/image1.jpg"
+        image: "image1.jpg"
     },
     {
         name: "Product 2",
         description: "A simple description for the second product.",
         price: "₹1,499",
-        image: "images/image2.jpg"
+        image: "image2.jpg"
     },
     {
         name: "Product 3",
         description: "A simple description for the third product.",
         price: "₹1,999",
-        image: "images/image3.jpg"
+        image: "image3.jpg"
     },
     {
         name: "Product 4",
         description: "A simple description for the fourth product.",
         price: "₹2,499",
-        image: "images/image4.jpg"
+        image: "image4.jpg"
     }
 ];
 
